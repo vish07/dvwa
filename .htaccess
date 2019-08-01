@@ -18,3 +18,4 @@ php_flag magic_quotes_gpc Off
 # deny from all
 # allow from 127.0.0.1
 #</Limit>
+
