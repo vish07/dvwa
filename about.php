@@ -58,5 +58,4 @@ dvwaHtmlEcho( $page );
 
 exit;
 
-
 ?>
