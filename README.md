@@ -16,6 +16,7 @@ We do not take responsibility for the way in which any one uses this application
 
 - - -
 
+
 ## License
 
 This file is part of Damn Vulnerable Web Application (DVWA).
