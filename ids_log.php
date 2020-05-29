@@ -28,5 +28,4 @@ $page[ 'body' ] .= "
 </div>";
 
 dvwaHtmlEcho( $page );
-
 ?>
